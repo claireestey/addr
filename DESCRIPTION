@@ -1,0 +1,14 @@
+Package: addr
+Title: Adds Two Numbers Together
+Version: 0.0.0.9000
+Authors@R: 
+    person("Claire", "Estey", , "esteyc@mcmaster.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000"))
+Description: A simple prectice package for GEOG 712 that contains one function named addr that is used to add two numbers together.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
