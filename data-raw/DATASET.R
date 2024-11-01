@@ -2,6 +2,7 @@
 
 ## this is where data cleaning and prep would go, but in this case I'm just loading
 ## raw data.
+## this should be a notebook instead with plain language explanations.
 
 library(here)
 
